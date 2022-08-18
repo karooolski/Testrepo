@@ -10,5 +10,6 @@ int main(){
 	int b = 10 
 	int c = 13; 
 	int d = 14;
+	int e = 10;
 	return 0;
 }
